@@ -12,3 +12,10 @@ Built with
     <li>CSS custom properties</li>
   <li>CSS Grid</li>
 </ul>
+
+
+What I learned
+This project was an excellent excercise in CSS grid and I learned how CSS grid made the layout of the individual card and the page significantly easier than traditional CSS. I learned how to use minmax, auto, and 1fr to make the page flow from mobile-first to the desktop.
+
+Continued development
+I am looking forward to the next project to build on the CSS grid experience and to add JavaScript for an additional challenge.
